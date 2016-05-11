@@ -1,1 +1,0 @@
-sudo gitlab-rake gitlab:env:info
